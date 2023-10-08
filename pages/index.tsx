@@ -38,10 +38,10 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Discover Opportunities in the NFT Market
+                  Explore, Trade NFTs, and Begin Earning!
                 </span>
                 <br />
-                and Multiply Your Earnings.
+                
               </h1>
               <p className={styles.heroSubtitle}>
                 <Link
